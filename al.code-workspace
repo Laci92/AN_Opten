@@ -1,13 +1,11 @@
-﻿{
-    "folders":  [
-                    {
-                        "path":  ".AL-Go"
-                    },
-                    {
-                        "path":  "AN_Opten"
-                    }
-                ],
-    "settings":  {
-
-                 }
+{
+    "folders": [
+        {
+            "path": ".AL-Go"
+        },
+        {
+            "path": "AN_Opten"
+        }
+    ],
+    "settings": {}
 }
